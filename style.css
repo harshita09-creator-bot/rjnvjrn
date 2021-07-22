@@ -1,0 +1,31 @@
+.heading{
+    width: 100%; 
+    text-align: left;
+    border-radius: 0;
+}
+
+.heading h1{
+    display:inline;
+    font-size: 30px;
+}
+
+.heading button{
+    float: right;
+}
+
+body{
+    background-size: cover;
+}
+
+.status{
+    font-size: 18px;
+}
+
+.game{
+    font-size: 18px;
+}
+
+canvas{
+    border-radius: 8px;
+    box-shadow: 8px 8px 8px lightslategrey;
+}
